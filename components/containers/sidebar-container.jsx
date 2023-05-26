@@ -25,7 +25,7 @@ function createChatListItem() {
     newChat.className = "flex snap-start mb-2 p-2 h-auto w-auto bg-red-500";
 
     // TODO: add function to get the name of the previouschat
-    newChat.innerText = "NEW CHAT (TESTING)";
+    newChat.innerText = "this is still a WIP lol sry";
 
     chatList.appendChild(newChat);
     console.log(chatList.innerHTML);
