@@ -5,6 +5,6 @@ export default function ClearButton() {
         </button>
     
     );
-    }
+}
 
 
